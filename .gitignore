@@ -1,0 +1,4 @@
+.vscode/
+lib/
+valgrind_project/
+.project
